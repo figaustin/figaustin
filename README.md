@@ -1,14 +1,14 @@
 <h2> Hi, I'm Osvaldo Figueroa, but I usually go by Austin! <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Enginner who studied at <a href="https://www.codingdojo.com/">Coding Dojo</a><img src="https://giphy.com/stickers/realtyaustin-ninja-realty-austin-ninja2021-VrZK2nNw245LqUTpkR" width="30"> 
+<img align='right' src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="230">
+<p><em>Software Enginner who studied at <a href="https://www.codingdojo.com/">Coding Dojo</a><img src="https://media.giphy.com/media/VrZK2nNw245LqUTpkR/giphy.gif" width="30"> 
 </em></p>
 
 
-[![Linkedin: osvaldo-figueroa](https://img.shields.io/badge/-osvaldo-figueroa-84a470230-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osvaldo-figueroa-84a470230/)](https://www.linkedin.com/in/osvaldo-figueroa-84a470230/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/figaustin?label=follow&style=social)](https://github.com/figaustin)
+[![Linkedin: osvaldo-figueroa-84a470230](https://img.shields.io/badge/-osvaldo-figueroa-84a470230-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osvaldo-figueroa-84a470230/)](https://www.linkedin.com/in/osvaldo-figueroa-84a470230/)
+[![GitHub figaustin](https://img.shields.io/github/followers/figaustin?label=follow&style=social)](https://github.com/figaustin)
 
 
-### <img src="https://giphy.com/stickers/arjunaharjai-transparent-arjuna-harjai-arjunna-harjaie-XHkacp0GZTrkx3ZV4K" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/XHkacp0GZTrkx3ZV4K/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const austin = {
