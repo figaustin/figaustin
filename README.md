@@ -1,6 +1,6 @@
 <h2> Hi, I'm Osvaldo Figueroa, but I usually go by Austin!</h2>
 <img align='right' src="https://media.giphy.com/media/xBTSwCTFkgfcdTjHMz/giphy.gif" width="230">
-<p><em>Full Stack Software Engineer who studied at <a href="https://www.codingdojo.com/">Coding Dojo</a><img src="https://media.giphy.com/media/VrZK2nNw245LqUTpkR/giphy.gif" width="30"> 
+<p><em>Welcome to my page! I am a Full Stack Software Engineer who studied at <a href="https://www.codingdojo.com/">Coding Dojo</a><img src="https://media.giphy.com/media/VrZK2nNw245LqUTpkR/giphy.gif" width="30"> 
 </em></p>
 
 
