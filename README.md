@@ -4,7 +4,7 @@
 </em></p>
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-osvaldo-figueroa-84a470230-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/osvaldo-figueroa-84a470230/)](https://www.linkedin.com/in/osvaldo-figueroa-84a470230/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
 [![GitHub figaustin](https://img.shields.io/github/followers/figaustin?label=follow&style=social)](https://github.com/figaustin)
 
 
