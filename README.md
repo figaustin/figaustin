@@ -7,11 +7,11 @@
 
 ```javascript
 const austin = {
-  languages: [Java, Python, JavaScript, SQL, NoSQL],
-  frameworksAndLibraries: [Spring, Flask, Jinja2, React, Express.js, Node.js, Mongoose],
+  languages: [Java, C#, Python, JavaScript, SQL, NoSQL],
+  frameworksAndLibraries: [Spring, .Net, Flask, Jinja2, React, Express.js, Node.js, Mongoose],
   databases: [MySQL, MongoDB],
   tools: [AWS(EC2), MySQL Workbench, Mongosh, Git, Github],
-  currentWorkingOn: "Practicing algorithms and data structures"
+  currentlyWorkingOn: "Practicing algorithms and data structures"
 }
 ```
 
