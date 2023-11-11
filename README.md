@@ -8,8 +8,8 @@
 ```javascript
 const austin = {
   languages: [Java, C#, Python, JavaScript, SQL, NoSQL],
-  frameworksAndLibraries: [Spring, .Net, Flask, Jinja2, React, Express.js, Node.js, Mongoose],
-  databases: [MySQL, MongoDB],
+  frameworksAndLibraries: [Spring, .Net, FastAPI, Flask, Jinja2, React, Express.js, Node.js, Mongoose],
+  databases: [MySQL, PostgreSQL, MongoDB],
   tools: [AWS(EC2), MySQL Workbench, Mongosh, Git, Github],
   currentlyWorkingOn: "Practicing algorithms and data structures"
 }
